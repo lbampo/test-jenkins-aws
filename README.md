@@ -1,5 +1,7 @@
 # DEVOPS  
 
+tester1
+
 Standardisation and Automisation (provisioning) <- We will use this to make processes much more efficient
 
 
@@ -27,7 +29,7 @@ example - just type in vagrant-up - and code will be available
 
 3) Robustness
 Standardize Environment
-Resilient structrure
+Resilient structure
        - N-tier architecture
 
 
